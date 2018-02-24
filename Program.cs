@@ -10,10 +10,10 @@ namespace ConsoleApplication3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("*****\n"+
+            Console.WriteLine(" *** \n"+
                               "*   *\n"+
                               "*   *\n"+
-                              "*****");
+                              " *** ");
         }
     }
 }
