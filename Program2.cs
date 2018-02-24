@@ -14,11 +14,7 @@ namespace ConsoleApplication3
                               "*   *\n"+
                               "*   *\n"+
                               " *** \n");
-           
-             Console.WriteLine("*****\n"+
-                              "*   *\n"+
-                              "*   *\n"+
-                              "*****\n");
+         
         }
     }
 }
